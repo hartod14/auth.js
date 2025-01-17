@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "json" : "json-server -p 2000 db.json"
   },
   "dependencies": {
     "next": "15.1.4",
