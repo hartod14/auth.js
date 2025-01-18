@@ -3,6 +3,7 @@
         {
             "id": 1,
             "email": "test@gmail.com",
+            "password" : "password",
             "image": "https://cdns.klimg.com/newshub.id/interactive-content/1448/headline-tes-kepribadian-sederhana-kamu-orang-yang-seperti-apa-sih.jpg",
             "name": "user-test"
         }

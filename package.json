@@ -7,9 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "json" : "json-server -p 2000 db.json"
+    "json": "json-server -p 2000 db.json"
   },
   "dependencies": {
+    "formik": "^2.4.6",
+    "json-server": "^1.0.0-beta.3",
     "next": "15.1.4",
     "next-auth": "^5.0.0-beta.25",
     "react": "^19.0.0",
